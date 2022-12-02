@@ -3,3 +3,4 @@ pandas==1.5.2
 numpy==1.23.5
 matplotlib==3.6.2
 streamlit==1.15.0
+lxml==4.9.1
